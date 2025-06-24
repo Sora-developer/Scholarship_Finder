@@ -85,5 +85,5 @@ To run the project successfully, make sure to install the following dependencies
   •	- web-driver
   •	-pymongo
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Made with ❤️ by Om G. and Himanshu Kumar for academic and community support.
