@@ -20,24 +20,25 @@ A full-stack web application that scrapes scholarship listings from a public web
 ## 📦 Folder Structure
 
 /frontend
-  ├── App.js
-  ├── ScholarshipUI.js
-  └── index.css
+  -├── App.js
+  -├── ScholarshipUI.js
+  -|   └── index.css
 
 /backend
-  ├── controllers
-  │   ├── matchController.js
-  │   └── scrapeController.js
-  ├── models
-  │   ├── profileModel.js
-  │   └── scholarshipModel.js
-  ├── routes
-  │   ├── match.js
-  │   ├── profile.js
-  │   └── scrape.js
-  ├── scrapers
-  │   └── scrape_scholarships.py
-  └── server.js
+  -├── controllers
+  -│   ├── matchController.js
+  -│   └── scrapeController.js
+  -├── models
+  -│   ├── profileModel.js
+  -│   └── scholarshipModel.js
+  -├── routes
+  -│   ├── match.js
+  -│   ├── profile.js
+  -│   └── scrape.js
+  -├── scrapers
+  -│   └── scrape_scholarships.py
+  -└── server.js
+  -└── .env
 
 ## ⚙️ Installation
 1.	1. Clone the repository
